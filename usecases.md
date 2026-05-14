@@ -57,7 +57,7 @@ tapauksen kulku:
     5- äänestys lisätty
     6- äänestys näkyy sivulla
 poikkeustoiminta:
-    -
+    - uusi äänestys -lomakkeessa tyhjää nimen tai kuvauksen kohdalla: 'täytä kaikki kohdat' -ilmoitus
 
 4. Poista äänestys
 käyttäjä: ylläpitäjä
